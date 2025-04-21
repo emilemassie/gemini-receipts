@@ -37,6 +37,16 @@ pyqt6
 appdirs
 ```
 
+## Getting a Google Gemini API Key
+
+1. Go to [Google AI Studio](https://aistudio.google.com/app/apikey).
+2. Sign in with your Google account if necessary.
+3. Click on **"Create API Key"**.
+4. Copy the generated API key — you'll need it to configure this application.
+5. Paste the API key into the app when prompted on first launch.
+
+**Note:** Usage of the API might require billing to be enabled on your Google Cloud account depending on the quota.
+
 ## Setup
 
 1. Clone this repository or copy the files.
