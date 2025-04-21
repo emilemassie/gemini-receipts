@@ -1,0 +1,5 @@
+google-generativeai
+Pillow
+pandas
+PyQt6
+appdirs
